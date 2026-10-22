@@ -1,10 +1,10 @@
 # Hi 👋, I'm Vaishnavi
 
-### 💻 Full Stack Developer | Python | Django | JavaScript | React | QA
+### 💻 Full Stack Developer | Python | Django | JavaScript | React | QA | AWS Basics | Docker
 
 I'm a Computer Science & Engineering graduate passionate about building web applications, REST APIs, and practical software solutions.
 
-I enjoy learning by building projects, debugging problems, testing applications, and continuously improving my development skills.
+I enjoy learning by building projects, debugging problems, testing applications, and exploring cloud technologies and containerization.
 
 ---
 
@@ -17,8 +17,10 @@ I enjoy learning by building projects, debugging problems, testing applications,
 - 🗄️ Working with SQL and MySQL
 - 🧪 Interested in Software Testing and Quality Assurance
 - 🤖 Interested in Generative AI and AI-powered applications
+- ☁️ Learning AWS fundamentals and cloud deployment concepts
+- 🐳 Learning Docker and application containerization
 - 🛠️ Building practical projects and maintaining them on GitHub
-- 🌱 Currently improving my skills in Backend Development, APIs, Testing, Docker and Linux
+- 🌱 Currently improving my skills in Backend Development, APIs, Docker, Linux and AWS
 - 💼 Open to Software Developer, Full Stack Developer, Python Developer and QA opportunities
 
 ---
@@ -37,18 +39,18 @@ I enjoy learning by building projects, debugging problems, testing applications,
 ### Database
 `MySQL` `SQLite`
 
-### Testing
+### Testing & QA
 `Manual Testing` `Functional Testing` `Regression Testing`  
 `API Testing` `Postman` `Test Cases` `Bug Reporting`
 
-### AI / GenAI
+### AI / Generative AI
 `Google Gemini API` `Generative AI` `Prompt Engineering`
+
+### Cloud & DevOps
+`AWS Basics` `Docker Fundamentals` `Containerization` `Application Deployment Concepts` `Linux / Ubuntu`
 
 ### Tools
 `Git` `GitHub` `VS Code` `MySQL Workbench` `Jupyter Notebook` `Google Colab`
-
-### Currently Learning
-`Docker` `Linux / Ubuntu` `Backend Development`
 
 ---
 
@@ -56,7 +58,7 @@ I enjoy learning by building projects, debugging problems, testing applications,
 
 ### 🎫 Support Ticket Management System
 
-Full-stack support ticket management application built with React.js, Node.js, Express.js and MySQL.
+A full-stack support ticket management application built with React.js, Node.js, Express.js and MySQL.
 
 **Technologies:** React.js • Node.js • Express.js • MySQL • REST APIs • JWT • Postman
 
@@ -91,17 +93,16 @@ A Django-based Generative AI application exploring recommendation-system concept
 
 ### 🧪 DocuSign Clone QA Audit
 
-Manual QA project focused on testing a DocuSign-style web application.
+A manual QA project focused on testing a DocuSign-style web application.
 
 **Testing Areas:**
 
 - Functional Testing
 - UI Testing
-- Test Scenarios
-- Test Cases
+- Test Scenarios and Test Cases
 - Defect Reporting
 - Severity and Impact Analysis
-- Expected vs Actual Results
+- Expected vs. Actual Results
 - Retesting
 
 ---
@@ -112,6 +113,10 @@ A responsive web application for managing job applications, interviews and appli
 
 **Technologies:** HTML • CSS • JavaScript
 
+- Track job applications and interview progress
+- Manage application statuses
+- Responsive user interface
+
 🔗 [GitHub Repository](https://github.com/SettipalliVaishnavi/job-application-tracker)
 
 🌐 [Live Demo](https://job-application-tracker-mu-nine.vercel.app/)
@@ -120,7 +125,7 @@ A responsive web application for managing job applications, interviews and appli
 
 ### 🛒 E-Commerce Sales & Customer Analytics
 
-A MySQL-based analytics project focused on analyzing e-commerce sales, customer spending, product performance, and revenue trends.
+A MySQL-based analytics project focused on e-commerce sales, customer spending, product performance and revenue trends.
 
 **Technologies:** MySQL • SQL • MySQL Workbench
 
@@ -129,9 +134,34 @@ A MySQL-based analytics project focused on analyzing e-commerce sales, customer 
 - Used `JOIN`, `GROUP BY`, `HAVING`, aggregate functions and subqueries
 - Created customer spending and product performance analysis
 - Used advanced SQL queries for customer ranking and business insights
-- Practiced query optimization and `EXPLAIN` for understanding query execution
+- Practiced query optimization and `EXPLAIN` to understand query execution
 
 🔗 [GitHub Repository](https://github.com/SettipalliVaishnavi/ecommerce-sql-analytics)
+
+---
+
+## ☁️ AWS & Docker Learning
+
+I'm developing my foundational knowledge of cloud computing and containerization.
+
+### AWS Basics
+- Learning core cloud computing concepts
+- Exploring AWS services and their use cases
+- Understanding cloud hosting, storage and deployment fundamentals
+- Learning about IAM, Amazon EC2 and Amazon S3
+
+### Docker
+- Learning containerization fundamentals
+- Exploring Docker images and containers
+- Practicing Dockerfiles and image building
+- Learning container lifecycle and port mapping
+- Exploring how to package and run web applications in containers
+
+### Integration Goals
+- Learn to containerize Python and Django applications
+- Explore running applications using Docker
+- Understand environment variables and application configuration
+- Learn the fundamentals of deploying applications to AWS
 
 ---
 
@@ -158,7 +188,8 @@ A MySQL-based analytics project focused on analyzing e-commerce sales, customer 
 - 🐍 Python & Django Backend Development
 - 🔗 REST API Development and Testing
 - 🧪 Software Testing & QA
-- 🐳 Docker
+- 🐳 Docker and Containerization
+- ☁️ AWS Fundamentals and Cloud Deployment
 - 🐧 Linux / Ubuntu
 - 🤖 Generative AI Applications
 - 💻 Full Stack Development
@@ -176,3 +207,5 @@ A MySQL-based analytics project focused on analyzing e-commerce sales, customer 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+*Always learning, building, testing and growing as a developer.*
